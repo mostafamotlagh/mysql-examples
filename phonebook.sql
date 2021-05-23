@@ -119,7 +119,8 @@ INSERT INTO `cities` (`name`, `area_code`) VALUES
 ('Teharn', '021'),
 ('Tabriz', '051'),
 ('Esfahan', '031'),
-('Mashhad', '091');
+('Mashhad', '091'),
+('Qom', '095');
 
 
 --
